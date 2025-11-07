@@ -4,7 +4,7 @@
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Cirreum.Persistence.svg?style=flat-square)](https://www.nuget.org/packages/Cirreum.Persistence/)
 [![GitHub Release](https://img.shields.io/github/v/release/cirreum/Cirreum.Persistence?style=flat-square)](https://github.com/cirreum/Cirreum.Persistence/releases)
 
-A comprehensive .NET persistence abstraction library that provides type-safe, feature-rich repository patterns for data access operations without external dependencies. This library offers a clean separation between your domain logic and persistence concerns through well-defined interfaces and base implementations.
+A comprehensive .NET persistence abstraction library that provides type-safe, feature-rich repository patterns for data access operations without external dependencies. This library offers a clean separation between your domain logic and persistence concerns through well-defined interfaces and base implementations
 
 ## Overview
 
@@ -241,7 +241,6 @@ entity.DeletedInTimeZone = "Asia/Tokyo";
 
 This library has **zero external dependencies** and works with:
 
-- .NET 6.0+
 - System.Text.Json for serialization attributes
 - System.Linq.Expressions for query building
 
