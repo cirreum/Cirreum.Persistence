@@ -1,3 +1,9 @@
+> [!WARNING]
+> **This repository has been archived and is no longer maintained.**
+>
+> This package has been renamed and moved to [Cirreum.Persistence.NoSql](https://github.com/cirreum/Cirreum.Persistence.NoSql).
+> Please use the new package for all future development.
+
 # Cirreum Persistence Library
 
 [![NuGet Version](https://img.shields.io/nuget/v/Cirreum.Persistence.svg?style=flat-square)](https://www.nuget.org/packages/Cirreum.Persistence/)
